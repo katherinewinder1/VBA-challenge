@@ -1,4 +1,4 @@
-# VBA-challenge
+# Analyzing Stock Data with VBA
 Sub Stock_Data()
     For Each ws In Worksheets
         Dim WorksheetName As String
